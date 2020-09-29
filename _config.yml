@@ -19,11 +19,11 @@ locale: "ko-KR"
 title: "코드도둑"
 title_separator: "-"
 subtitle: "Zl존표도"
-name: "로그"
-description: "슬쩍한 지식"
+name: "코드도둑"
+description: "슬쩍한 지식들"
 url: "https://10reps.github.io"
 baseurl: ""
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "10reps/10reps.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/log.jpg"
 masthead_title: "로그"
@@ -51,8 +51,8 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-search: # true, false (default)
-search_full_content: # true, false (default)
+search: true
+search_full_content: true
 search_provider: # lunr (default), algolia, google
 algolia:
   application_id: # YOUR_APPLICATION_ID
@@ -92,10 +92,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  name: "코드도둑"
+  avatar: "/assets/images/log.jpg"
+  bio: "코드맛집"
+  location: "Korea"
   email:
   links:
     - label: "Email"
