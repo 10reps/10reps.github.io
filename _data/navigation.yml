@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "내 깃허브"
-    url: https://github.com/10reps/10reps.github.io
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Archive"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
