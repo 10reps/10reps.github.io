@@ -2,10 +2,10 @@
 main:
   - title: "Django"
     url: /django/
-  - title: "tag"
-    url: /tags/
-  - title: "Category"
-    url: /categories/
+  - title: "Python"
+    url: /python/
+  # - title: "Category"
+  #  url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
