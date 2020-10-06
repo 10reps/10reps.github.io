@@ -281,6 +281,3 @@ defaults:
       comments: false
       share: true
       related: false
-
-header:
-  image: /assets/images/log.jpg # 사이트 헤더 이미지 넣기 (~1280px 까지가 적당함)
