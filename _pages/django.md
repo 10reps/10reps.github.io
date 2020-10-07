@@ -1,6 +1,10 @@
 ---
-title: "Posts by Year"
+title: "Django"
 permalink: /django/
-layout: posts
-author_profile: true
+header:
+  image: "/assets/images/code.jpg"
+layout:
+author_profile: false
 ---
+
+I'm s senior developer.
