@@ -3,7 +3,6 @@ title: "Python"
 permalink: /python/
 header:
   image: "/assets/images/code.jpg"
-layout:
 author_profile: true
 ---
 
