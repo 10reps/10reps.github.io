@@ -5,9 +5,8 @@ tags:
 header:
   image: "/assets/images/code.jpg"
 ---
-배경
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/money1.jpg" alt="">
+배경:
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/money1.png" alt="">
 
 A는 9300원이 들어있는 상자를 찾고싶다.
 
@@ -23,7 +22,7 @@ A는 9300원이 들어있는 상자를 찾고싶다.
         if i[k] == j:
             print('%d는 %d번 인덱스에 있습니다.' % (j, k))
             break
-``
+```
 
 이진탐색
 정리되어있는 데이터를 탐색할때 사용가능하고 정리되어있지 않으면 불가능한 방법
