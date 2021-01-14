@@ -14,7 +14,7 @@ header:
 
 * 버블정렬 방법
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bubble.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Algorithm/bubble.png" alt="">
 
 * 버블정렬 알고리즘
 

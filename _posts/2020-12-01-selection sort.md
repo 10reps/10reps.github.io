@@ -14,7 +14,7 @@ header:
 
 * 선택정렬 방법
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/selection.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Algorithm/selection.png" alt="">
 
 * 선택정렬 알고리즘
 
