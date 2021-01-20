@@ -37,4 +37,18 @@ header:
 
  * 구간별 자료의 갯수(도수)를 구한다.
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Statistics/5.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Statistics/5.png" alt="">
+
+
+
+## 히스토그램(Historgram)
+
+* 도수 분포표를 시각적으로 표현한 막대 그래프
+
+* 위 도수분포표는 구간의 수가 5개밖에 없어서 쉽게 표로 볼수 있었지만 구간이 10개 이상이라면 도수분포표 내부의 숫자가 너무 많다. 따라서 데이터를 한눈에 보기 어려울 것이다. 이런 상황에서 **도수분포표를 한눈에 보기 쉽게 시각화 해주는 것이 히스토그램이다.**
+
+* 히스토그램의 **x축(가로축)은 구간**을 나타내며, **y축(세로축)은 각 구간별 빈도수**를 나타낸다.
+
+* 히스토그램은 구간별 빈도수를 알수있고, 그 빈도수는 히스토그램의 모양을 나타낸다. 또한 히스토그램의 모양으로 데이터가 어떻게 생겼는지 한눈에 볼 수 있다.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Statistics/6.png" alt="">
