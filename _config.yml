@@ -92,11 +92,11 @@ analytics:
 
 # Site Author
 author:
-  name: "코드도둑"
-  avatar: "/assets/images/log.jpg"
+  name: "Seo hong Kim"
+  avatar: "/assets/images/hong.jpg"
   bio: "코드맛집"
   location: "Korea"
-  email:
+  email: "greyxcx@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,7 +111,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://github.com/10reps"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -127,7 +127,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://github.com/10reps"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
