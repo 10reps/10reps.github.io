@@ -18,13 +18,13 @@ minimal_mistakes_skin: "air" # 블로그 스킨
 locale: "ko-KR" # 블로그 기본 언어
 title: "Playdata" # 사이트 맨위 인터넷창? 이름
 title_separator: "-"
-subtitle: "Version 2.0"
-name: Mr. KIM
-description: "ddddddddddddddd"
+subtitle: "Hello World!" # 사이트 이름 아래 작은 글씨
+name: "Seo hong Kim" # 사이트 맨 아래 글자에 이름추가
+description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url: "https://10reps.github.io" # 블로그 주소
 baseurl: "" # 서브경로
 repository: "10reps/10reps.github.io" # 블로그와 연결되어 있는 깃허브 주소
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "/assets/images/Data.jpg"
 logo: # 블로그 로고 이미지
 masthead_title: "Playdata Blog"
 # breadcrumbs            : false # true, false (default)
