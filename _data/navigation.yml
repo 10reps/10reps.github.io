@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Django"
-    url: /django/
-  - title: "Python"
-    url: /python/
+  - title: "Statistics"
+    url: /statistics/
+  - title: "Algorithm"
+    url: /algorithm/
+  - title: "Machine Learning"
+    url: /machine learning/
   # - title: "Category"
   #  url: /categories/
   # - title: "Sample Collections"
