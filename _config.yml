@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Seo hong Kim"
   avatar: "/assets/images/hong.jpg"
-  bio: "코드맛집"
+  bio: ""
   location: "Korea"
   email: "greyxcx@gmail.com"
   links:
@@ -111,7 +111,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/10reps"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/10reps"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -266,7 +267,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true
@@ -277,8 +278,9 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: true
-      related: false
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
