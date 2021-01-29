@@ -16,17 +16,17 @@ minimal_mistakes_skin: "air" # 블로그 스킨
 
 # Site Settings
 locale: "ko-KR" # 블로그 기본 언어
-title: "코드도둑" # 사이트 맨위 인터넷창? 이름
+title: "Playdata" # 사이트 맨위 인터넷창? 이름
 title_separator: "-"
-subtitle:
-name:
-description:
+subtitle: "Version 2.0"
+name: Mr. KIM
+description: "ddddddddddddddd"
 url: "https://10reps.github.io" # 블로그 주소
 baseurl: "" # 서브경로
 repository: "10reps/10reps.github.io" # 블로그와 연결되어 있는 깃허브 주소
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # 블로그 로고 이미지
-masthead_title: "코드도둑의 블로그"
+masthead_title: "Playdata Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
