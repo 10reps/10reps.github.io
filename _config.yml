@@ -24,8 +24,8 @@ description: "A flexible Jekyll theme for your blog or site with a minimalist ae
 url: "https://10reps.github.io" # 블로그 주소
 baseurl: "" # 서브경로
 repository: "10reps/10reps.github.io" # 블로그와 연결되어 있는 깃허브 주소
-teaser: "/assets/images/Data.jpg"
-logo: # 블로그 로고 이미지
+teaser: "/assets/images/data.jpg" # 포스트 메뉴 이미지
+logo: "/assets/images/science.jpg" # 블로그 로고 이미지
 masthead_title: "Playdata Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
