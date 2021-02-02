@@ -275,7 +275,6 @@ defaults:
       toc: true
       toc_label: "목록"
       toc_icon: "cog"
-      layout: splash
 
   # _pages
   - scope:
