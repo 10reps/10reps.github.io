@@ -4,6 +4,9 @@ date: 2021-01-13
 tags:
 header:
   image: "/assets/images/code.jpg"
+toc: true
+toc_label: "목록"
+toc_icon: "cog"
 ---
 
 ## 통계학이란?
