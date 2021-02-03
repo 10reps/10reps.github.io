@@ -220,3 +220,15 @@ excerpt: "Spanish"
 * pared[빠렏] 벽
 
 * verdad[베르닫] 진실
+
+
+
+## F(f)
+
+* **ㅍ** 과 유사하고 영어 **f** 처럼 발음한다.
+
+* fruta[프루따] 과일
+
+* foto[포또] 사진
+
+* futuro[푸뚜로] 미래
