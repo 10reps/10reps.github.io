@@ -4,6 +4,7 @@ date: 2021-01-18
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Statistics"
 ---
 
 ## 도수 분포표(Frequency table)

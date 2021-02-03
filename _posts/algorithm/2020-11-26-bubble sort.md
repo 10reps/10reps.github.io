@@ -1,9 +1,10 @@
 ---
-title: "버블정렬"
+title: "Bubble sort"
 date: 2020-11-26
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Algorithm"
 ---
 
 ### 버블정렬

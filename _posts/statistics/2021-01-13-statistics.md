@@ -4,6 +4,7 @@ date: 2021-01-13
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Statistics"
 ---
 
 ## 통계학이란?

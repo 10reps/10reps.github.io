@@ -4,6 +4,7 @@ date: 2021-01-22
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Statistics"
 ---
 
 ## 중심화 경향(Central tendency)

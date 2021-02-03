@@ -1,9 +1,10 @@
 ---
-title: "선택정렬"
+title: "Selection sort"
 date: 2020-12-01
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Algorithm"
 ---
 
 ### 선택정렬

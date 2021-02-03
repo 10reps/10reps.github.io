@@ -1,9 +1,10 @@
 ---
-title: "알고리즘"
+title: "Algorithm"
 date: 2020-11-18
 tags:
 header:
   image: "/assets/images/code.jpg"
+excerpt: "Algorithm"
 ---
 
 ## 알고리즘
