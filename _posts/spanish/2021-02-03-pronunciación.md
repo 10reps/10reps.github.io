@@ -1,5 +1,5 @@
 ---
-title: "발음"
+title: "pronunciación"
 date: 2021-02-03
 tags: [Spanish]
 header:
@@ -20,4 +20,6 @@ A(a): **아**로 발음한다.
 
 E(e): **에**로 발음한다.
 
-* 
+* educación[에두까씨온] 교육
+
+* estudiar[에스뚜디아르] 공부하다
