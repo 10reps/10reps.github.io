@@ -111,4 +111,4 @@ excerpt: "Spanish"
 
 * doctor[독또르] 박사 -> doctores[독또레스] 박사들
 
-* universidad[우니베르씨닫] 대학 -> universidades[우니베르씨다데스] 대학
+* universidad[우니베르씨닫] 대학 -> universidades[우니베르씨다데스] 대학들
